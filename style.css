@@ -1,0 +1,43 @@
+body {
+    background-color: aqua;
+}
+
+div p {
+    padding: 0px 20px;
+}
+
+.div1 {
+    background-color: bisque; 
+    overflow: auto;
+    float: left;
+    width: 50%;
+    font-size: 20px;
+    position: relative;
+}
+
+.div2-3 {
+    background-color: greenyellow; 
+    overflow: auto;
+    float: right;
+    width: 50%;
+    font-size: 20px;
+    
+}
+
+.div2 {
+    float: right;
+}
+
+.div3 {
+    float: left;
+    position: relative;
+}
+
+.div4 {
+    background-color: bisque; 
+    overflow: auto;
+    float: right;
+    width: 50%;
+    font-size: 20px;
+    
+}
